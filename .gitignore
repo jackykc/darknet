@@ -23,6 +23,7 @@ build_*/
 !build/darknet/YoloWrapper.cs
 .fuse*
 *.weights
+arvpData/images/
 
 # OS Generated #
 .DS_Store*
