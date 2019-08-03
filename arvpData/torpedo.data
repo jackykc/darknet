@@ -2,4 +2,4 @@ classes= 4
 train  = arvpData/torpedo_train.txt
 valid  = arvpData/torpedo_test.txt
 names = arvpData/torpedo.names
-backup = arvpBackup/torpedo
+backup = arvpBackup/torpedo_1
